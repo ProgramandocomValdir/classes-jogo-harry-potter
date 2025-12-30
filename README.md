@@ -113,6 +113,7 @@ GitHub
 
 📌 Desenvolvido por **Valdir Sales**
 
-🎥 YouTube: **Programando com Valdir**
-
+🎥 YouTube: **[Programando com Valdir](https://www.youtube.com/@ProgramandoComValdir)**
+📸 Instagram: **[@programandocomvaldir](https://www.instagram.com/programandocomvaldir)**
+💼 LinkedIn: **[valdir-barboza-sales](https://www.linkedin.com/in/valdir-barboza-sales-266b54160)**
 💻 Estudante de Análise e Desenvolvimento de Sistemas
