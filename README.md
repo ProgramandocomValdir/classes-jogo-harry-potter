@@ -1,6 +1,9 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)
 ![Git](https://img.shields.io/badge/Git-Versionamento-orange)
 ![Status](https://img.shields.io/badge/Status-Concluído-success)
+![GitHub repo size](https://img.shields.io/github/repo-size/ProgramandocomValdir/classes-jogo-harry-potter)
+![GitHub stars](https://img.shields.io/github/stars/ProgramandocomValdir/classes-jogo-harry-potter?style=social)
+
 
 🧙‍♂️ Desafio DIO — Escrevendo as Classes de Um Jogo  
 Projeto em JavaScript inspirado em Harry Potter
