@@ -111,7 +111,7 @@ Git
 
 GitHub
 
-📌 Desenvolvido por **Valdir**
+📌 Desenvolvido por **Valdir Sales**
 
 🎥 YouTube: **Programando com Valdir**
 
