@@ -112,5 +112,7 @@ Git
 GitHub
 
 📌 Desenvolvido por **Valdir**
+
 🎥 YouTube: **Programando com Valdir**
+
 💻 Estudante de Análise e Desenvolvimento de Sistemas
